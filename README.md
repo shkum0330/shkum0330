@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0080FF&height=300&section=header&text=SH&fontSize=100)
 
 <div align="center">
