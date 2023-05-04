@@ -1,5 +1,3 @@
-![snake gif](https://github.com/shkum0330/shkum0330/blob/output/github-contribution-grid-snake.svg)
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0080FF&height=300&section=header&text=SH&fontSize=100)
 
 <div align="center">
