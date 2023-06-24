@@ -2,13 +2,13 @@
 
 <div align="center">
 
-### 👋Hi I'm Sehyun.
+### 👋Hi I'm Sehyun
 
 #### My major is Computer Engineering. I'm studying backend development.
 
 <br>
 
-### ⚔SKills.
+### ⚔SKills
 
 <br>[Programming Languages]<br>
 
@@ -30,14 +30,14 @@
 
 <br>
 
-### GitHub Stats.
+### GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shkum0330&show_icons=true&theme=prussian)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkum0330&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-### Programming Solving.
+### Programming Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kumsh0330)](https://solved.ac/kumsh0330/)
 
