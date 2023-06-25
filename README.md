@@ -22,7 +22,7 @@
 
 <br>[Backend & DB]<br>
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
-![springsecurity](https://img.shields.io/badge/springsecurity-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white)
+![springsecurity](https://img.shields.io/badge/spring-security-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>[Tools]<br>
