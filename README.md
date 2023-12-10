@@ -10,7 +10,7 @@
 
 ### Skills
 
-<br><b>[Programming Languages]</b><br>
+<b>[Programming Languages]</b><br>
 
 ![Java](https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
