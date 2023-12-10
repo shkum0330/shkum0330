@@ -12,8 +12,8 @@
 
 <br>[Programming Languages]<br>
 
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
+![Java](https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 
 <br>[Frontend]<br>
@@ -23,12 +23,19 @@
 <br>[Backend & DB]<br>
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![springsecurity](https://img.shields.io/badge/spring_security-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white)
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![redis](https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![rabbitmq](https://img.shields.io/badge/rabbitmq-FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+
+<br>[Infra]<br>
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
+
 
 <br>[Tools]<br>
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jirak&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white)
 <br>
 
 ### PS
@@ -40,6 +47,7 @@
 ### GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shkum0330&show_icons=true&theme=prussian)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkum0330&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
