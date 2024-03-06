@@ -17,7 +17,6 @@
 
 <br><b>[Backend & DB]</b><br>
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
-![springsecurity](https://img.shields.io/badge/spring_security-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white)
 ![hibernate](https://img.shields.io/badge/hibernate-59666C.svg?&style=for-the-badge&logo=hibernate&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
