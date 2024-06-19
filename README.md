@@ -10,7 +10,7 @@
 
 ### Skills
 
-<b>[Programming Languages]</b><br>
+<b>[Programming Language]</b><br>
 ![Java](https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 
@@ -27,7 +27,7 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
 
 
-<br><b>[Tools]</b><br>
+<br><b>[Tool]</b><br>
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white)
 
