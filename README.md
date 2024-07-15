@@ -49,9 +49,5 @@
 
 <br>
 
-### Links
-
-<a href = "https://www.instagram.com/sehyun96_/">![instagram](https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)</a>
-
 </div>
 
