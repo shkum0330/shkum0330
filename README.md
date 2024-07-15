@@ -51,7 +51,6 @@
 
 ### Links
 
-<a href = "https://codingoat.tistory.com/">![tistory](https://img.shields.io/badge/tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white)</a>
 <a href = "https://www.instagram.com/sehyun96_/">![instagram](https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 </div>
