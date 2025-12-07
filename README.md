@@ -39,15 +39,5 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kumsh0330)](https://solved.ac/kumsh0330/)
 
-<br>
-
-### GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shkum0330&show_icons=true&theme=prussian)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkum0330&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
 </div>
 
