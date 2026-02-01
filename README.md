@@ -27,6 +27,7 @@
 <br><b>[Infra]</b><br>
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF.svg?&style=for-the-badge&logo=github-actions&logoColor=white)
 
 
 <br><b>[Tool]</b><br>
